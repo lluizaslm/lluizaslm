@@ -1,8 +1,8 @@
-### Olá! Sou Maria Luiza
+#### Olá! Sou Maria Luiza
 ##
 
 - 🔭 Estudante de Sistema de Informação-IFMA
-- Atualemente estou aprimorando minha lógica e aprendendo novas liguagens!
+- Atualemente estou aprimorando minha lógica e aprendendo JS.
 
  <div>
   <a href="https://github.com/lluizaslm">
@@ -22,7 +22,7 @@
 </div>
 
 ##
-### Contact me
+#### Contact me
 <div>
 <a href="https://instagram.com/lluiza.slm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="www.linkedin.com/in/maria-luiza-lima-6764332b8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
