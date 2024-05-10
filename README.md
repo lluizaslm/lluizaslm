@@ -2,7 +2,7 @@
 ##
 
 - 🔭 Estudante de Sistema de Informação-IFMA
-- Atualemente estou aprimorando minha lógica e aprendendo JS.
+- Atualmente estou aprimorando minha lógica e aprendendo JS.
 
  <div>
   <a href="https://github.com/lluizaslm">
