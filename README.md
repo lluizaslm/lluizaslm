@@ -1,4 +1,4 @@
-#### Olá! Sou Maria Luiza
+# Olá, sou Maria Luiza
 ##
 
 - 🔭 Estudante de Sistema de Informação-IFMA
@@ -21,8 +21,8 @@
 <img align="center" alt="ML-html" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />    
 </div>
 
-##
-#### Contact me
+
+## Conecte-se comigo!
 <div>
 <a href="https://instagram.com/lluiza.slm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="www.linkedin.com/in/maria-luiza-lima-6764332b8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
